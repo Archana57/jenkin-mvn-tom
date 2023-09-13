@@ -4,7 +4,7 @@
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 / 99 85 29 66 77 8888</h2>
+  <h2> Call Us : + 91 - 99 85 39 66 77 / 99 85 29 66 77 Thank you </h2>
   
   <h3> Ofc Location : Ameerpet, Hyderabad </h3>
   
