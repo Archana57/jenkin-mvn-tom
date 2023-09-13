@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 91 - 99 85 39 66 77 / 99 85 29 66 77 Thank you </h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderabad </h3>
+  <h3> Ofc Location : Malleshwaram, blore-21 </h3>
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
